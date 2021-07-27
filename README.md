@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amardeepsg
 - 👀 I’m interested in ...honeypots
 - 🌱 I’m currently learning to use MHN
-- 💞️ I’m looking to ways to integrate Snare with MHN
+- 💞️ I’m looking for ways to integrate Snare with MHN
 - 📫 How to reach me ... 
 
 <!---
